@@ -1,5 +1,5 @@
 # Financial-Data-Analysis-with-Python
-My first python project: A Dash App for Financial Data Analsis of the S&P100 
+My first python project: A Dash App for Financial Data Analysis of the S&P100 
 # WHAT I LEARNED
 - Python Syntax
 - Data Visualization with Python
